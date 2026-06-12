@@ -17,9 +17,9 @@ https://drive.google.com/file/d/1I4lctyTLFNtEYnhlemxE1EAN6h3VdoyQ/view?usp=shari
 
 ### Semantic Retrieval (RAG)
 
-* Uses ChromaDB as a vector database
-* Retrieves only relevant memories instead of injecting the entire profile
-* Improves response quality and scalability
+* Uses ChromaDB as a vector database.
+* Retrieves only relevant memories instead of injecting the entire profile.
+* Improves response quality and scalability.
 
 ### AI Chat
 
